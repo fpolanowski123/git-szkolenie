@@ -1,0 +1,2 @@
+instalacja 
+git clone <url>

@@ -1,7 +1,1 @@
-instalacja 
-git clone <url>
-## autor
-Jan Kowal
-
-## licencja 
-MIT
+# Git Szkolenie - Wersja Main

@@ -1,6 +1,6 @@
 instalacja 
 git clone <url>
-autor
+## autor
 Jan Kowal
 
 ## licencja 
